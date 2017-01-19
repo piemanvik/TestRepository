@@ -1,0 +1,15 @@
+﻿Revert "Merge remote-tracking branch 'refs/remotes/origin/master' into Version2"
+
+This reverts commit d57a4c3b47b8eb0d0ae6e8df44ca1a08ab36b047, reversing
+changes made to dbf5096e29caeba644dd5e61d01c6acc7e502ce7.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch Version2
+# Your branch is ahead of 'origin/Version2' by 2 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   myfirstfile.txt
+#
+
